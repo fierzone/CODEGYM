@@ -1,10 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Do You Love Me</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .center-text {
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
-$END$
+<div class="center-text">
+    <h1 style="font-family: Arial">Do you love me?</h1>
+    <button style="width: 60px; height: 30px; font-size: 20px; position: absolute; left: 870px"
+            onclick="replyClick()">Yes</button>
+    <button id ="movingButton" style="width: 60px; height: 30px; font-size: 20px; position: absolute; left: 980px"
+            onmouseover="checkMouse()">No</button>
+</div>
+<script>
+    function replyClick(){
+        alert("<3");
+    }
+    function checkMouse(){
+        var x = Math.floor(Math.random() * window.innerWidth) + 1;
+        var y = Math.floor(Math.random() * window.innerHeight) + 1;
+        var button = document.getElementById("movingButton");
+        button.style.left = x + "px";
+        button.style.top = y + "px";
+    }
+</script>
 </body>
 </html>

@@ -1,10 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>JS</title>
 </head>
 <body>
-$END$
+<script>
+    function nhapMang() {
+        // let arr = []
+        // let n = +prompt("Nhập số phần tử")
+        // for (let i = 1; i <= n; i++){
+        //     let pt = +prompt("Nhập số pt "+i)
+        //     arr.push(pt)
+        // }
+        // document.write(arr)
+        let input = prompt("Nhập các số, cách nhau bởi dấu phẩy:");
+        let mang = input.split(",").map(Number);
+        return mang;
+    }
+
+    let ab = nhapMang();
+    document.write("Mảng gốc: " + ab + "<hr>");
+
+
+    let tich = 1;
+    for (let i = 0; i < ab.length; i++) {
+        if(ab[i] % 2 === 0) {
+            tich *= ab[i];
+        }
+    }
+    document.write(tich)
+</script>
 </body>
 </html>

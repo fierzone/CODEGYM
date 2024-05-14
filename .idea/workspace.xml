@@ -1,17 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="32f9aa15-abd8-4bb5-b946-47582907d06e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HTML.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/.idea/OOPQuanLySanPham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/quanlysp/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/quanlysp/Store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/quanlysp/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/quanlysp/quanlysp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PTB2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hocform.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hocform.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TRANGWEB.html" beforeDir="false" afterPath="$PROJECT_DIR$/TRANGWEB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoYouLoveMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/DoYouLoveMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormGit.docx" beforeDir="false" afterPath="$PROJECT_DIR$/FormGit.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLySP/DieuKhien.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLySP/DieuKhien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLySP/Snake.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLySP/Snake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLySP/traiquaphai.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TangKhuyn/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TangKhuyn/.idea/NgocKhuyen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TangKhuyn/.idea/TangKhuyn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TangKhuyn/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TangKhuyn/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TangKhuyn/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TangKhuyn/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TangKhuyn/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/TangKhuyn/html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebstormProjects/HTML/TESt.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebstormProjects/HTML/TESt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebstormProjects/HTML/testdongho.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebstormProjects/HTML/testdongho.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note" beforeDir="false" afterPath="$PROJECT_DIR$/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$ormGit.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$ormGit.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,24 +49,64 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2eraVZU9H5QaeaANmP0RYVstPMb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/CSS",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.DoYouLoveMe.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.PT2.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.PTB2.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.TESt.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.TRANGWEB.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.test.html.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.PTB@.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Mang2C&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="JavaScript Debug.test.html">
+    <configuration name="DoYouLoveMe.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODEGYM/DoYouLoveMe.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="PT2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODEGYM/PT2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="PTB2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODEGYM/PTB2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODEGYM/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODEGYM/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test.html" />
+        <item itemvalue="JavaScript Debug.PTB2.html" />
+        <item itemvalue="JavaScript Debug.PT2.html" />
+        <item itemvalue="JavaScript Debug.DoYouLoveMe.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,10 +116,37 @@
       <option name="presentableId" value="Default" />
       <updated>1712665175056</updated>
       <workItem from="1712665176126" duration="126000" />
+      <workItem from="1712836454379" duration="7731000" />
+      <workItem from="1713267394644" duration="23000" />
+      <workItem from="1713274813027" duration="3173000" />
+      <workItem from="1713456366127" duration="50000" />
+      <workItem from="1713611871866" duration="76000" />
+      <workItem from="1714051629324" duration="3095000" />
+      <workItem from="1714219223261" duration="862000" />
+      <workItem from="1714220184745" duration="8000" />
+      <workItem from="1714220258625" duration="8000" />
+      <workItem from="1714220669374" duration="22000" />
+      <workItem from="1714220816835" duration="4000" />
+      <workItem from="1714221036793" duration="17000" />
+      <workItem from="1714221076403" duration="4000" />
+      <workItem from="1714221178939" duration="107000" />
+      <workItem from="1715601223542" duration="7850000" />
+      <workItem from="1715686503441" duration="3279000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
